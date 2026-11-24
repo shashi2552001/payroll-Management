@@ -1,0 +1,6 @@
+{
+  "name": "9HR India",
+  "description": "Enterprise HR, Payroll, RBAC Security, 2FA, and Secure Candidate Document Verification Platform for 9HR India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
